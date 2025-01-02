@@ -29,3 +29,7 @@
     user-select: none;
     cursor: pointer;
 }
+p{
+    transition: 0.5s;
+    text-align: justify;
+}
